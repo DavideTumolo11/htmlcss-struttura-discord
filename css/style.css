@@ -56,18 +56,39 @@
 }
 
 .debug .study-group {
-    width: 700px;
-    height: 400px;
+    width: 900px;
+    height: 500px;
     background-color: blue;
-    margin: 70px 0px;
+    margin: 50px 0px;
 
 }
 
 .debug .study-text {
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
     background-color: plum;
-    margin: 70px 0px;
+    margin: 50px 0px;
+}
+
+.debug .section2-flex {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(219, 219, 219);
+}
+
+.debug .voice-text {
+    width: 900px;
+    height: 500px;
+    background-color: plum;
+    margin: 50px 0px;
+
+}
+
+.debug .voice-connected {
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    margin: 50px 0px;
 }
 
 
