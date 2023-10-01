@@ -50,6 +50,8 @@
 
 }
 
+/* section1 */
+
 .debug .section1-flex {
     display: flex;
     justify-content: center;
@@ -69,6 +71,8 @@
     background-color: plum;
     margin: 50px 0px;
 }
+
+/* section2 */
 
 .debug .section2-flex {
     display: flex;
@@ -90,6 +94,31 @@
     background-color: blue;
     margin: 50px 0px;
 }
+
+/* section3 */
+
+.debug .section3-flex {
+    display: flex;
+    justify-content: center;
+}
+
+.debug .coach {
+    width: 900px;
+    height: 500px;
+    background-color: blue;
+    margin: 50px 0px;
+
+}
+
+.debug .coach-text {
+    width: 500px;
+    height: 500px;
+    background-color: plum;
+    margin: 50px 0px;
+}
+
+
+
 
 
 
