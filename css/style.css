@@ -7,7 +7,7 @@
 .debug .class_header{
     height: 110px;
     width: 100%;
-    background-color: rgb(161, 249, 249);
+    background-color: rgb(178, 249, 249);
 
 }
 
@@ -20,8 +20,26 @@
     
 }
 
-.debug .logo-link {
-    width: 400px;
+.debug .logo {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    margin: 25px 0px;
+    
+
+}
+
+.debug .link {
+    width: 800px;
+    height: 50px;
+    background-color: orange;
+    margin: 25px 0px;
+    
+
+}
+
+.debug .login {
+    width: 200px;
     height: 50px;
     background-color: orange;
     margin: 25px 0px;
@@ -117,11 +135,97 @@
     margin: 50px 0px;
 }
 
+/* section 4 */
+
+.debug .section4-flex {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(219, 219, 219);
+}
+
+.debug .just-chillin {
+    width: 1500px;
+    height: 1000px;
+    background-color: green;
+    margin: 50px 0px;
+
+}
+
+/* footer */
+
+.debug .footer-flex {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(38, 38, 38);
+}
 
 
 
+.debug .social {
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 50px 0px;
+}
+
+.debug .prodotto {
+    width: 200px;
+    height: 500px;
+    background-color:aqua;
+    margin: 50px 0px;
+}
+
+.debug .compagnia {
+    width: 200px;
+    height: 500px;
+    background-color:aqua;
+    margin: 50px 0px;
+}
+
+.debug .risorse {
+    width: 200px;
+    height: 500px;
+    background-color:aqua;
+    margin: 50px 0px;
+}
+
+.debug .norme {
+    width: 200px;
+    height: 500px;
+    background-color:aqua;
+    margin: 50px 0px;
+}
 
 
+.debug .registrati-flex {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(38, 38, 38);
+}
+
+.debug .section-footer-flex {
+    display: flex;
+    width: 1300px;
+    height: 100px;
+    background-color:aqua;
+    margin: 50px 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.debug .footer-logo {
+    width: 130px;
+    height: 50px;
+    background-color: pink;
+    margin: 50px 0px;
+}
+
+.debug .bottone {
+    width: 130px;
+    height: 50px;
+    background-color:pink;
+    margin: 50px 0px;
+}
 
 
 
